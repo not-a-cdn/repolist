@@ -1,4 +1,5 @@
 // Made by Not-a-Cdn
+// Remember, this is not a cdn.
 const ORG = 'not-a-cdn';
 const output = document.getElementById('output');
 const backBtn = document.getElementById('backBtn');
